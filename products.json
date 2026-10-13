@@ -1,0 +1,10 @@
+[
+  {"id":1,"emoji":"📻","name":"Pocket P1","category":"Фестивали","description":"Компактная mesh-рация для организаторов и волонтёров. Работает без сотовой сети и интернета.","radiusKm":2.0,"autonomyHours":24,"pricePerDay":8,"deposit":60},
+  {"id":2,"emoji":"📦","name":"Event Pack 10","category":"Фестивали","description":"Готовый комплект из 10 раций с зарядным кейсом для команды мероприятия.","radiusKm":3.0,"autonomyHours":20,"pricePerDay":70,"deposit":500},
+  {"id":3,"emoji":"🥾","name":"Trail T2","category":"Походы","description":"Влагозащищённая рация для туристических групп. Сообщения передаются по цепочке между устройствами.","radiusKm":5.0,"autonomyHours":48,"pricePerDay":12,"deposit":90},
+  {"id":4,"emoji":"☀️","name":"Solar Mesh S3","category":"Походы","description":"Рация с солнечной панелью для многодневных выходов в горы и лес.","radiusKm":8.0,"autonomyHours":72,"pricePerDay":20,"deposit":150},
+  {"id":5,"emoji":"🏃","name":"Runner R1","category":"Спорт","description":"Лёгкая рация для судей и сопровождающих на забегах и велогонках.","radiusKm":1.5,"autonomyHours":16,"pricePerDay":6,"deposit":45},
+  {"id":6,"emoji":"🏁","name":"Marathon Net M5","category":"Спорт","description":"Набор с ретрансляторами для покрытия трассы марафона.","radiusKm":10.0,"autonomyHours":36,"pricePerDay":45,"deposit":320},
+  {"id":7,"emoji":"🏗️","name":"Builder B4","category":"Стройка","description":"Ударопрочная рация для строительных площадок и складов.","radiusKm":4.0,"autonomyHours":30,"pricePerDay":15,"deposit":110},
+  {"id":8,"emoji":"🗼","name":"Repeater Tower","category":"Стройка","description":"Мачта-ретранслятор: расширяет зону сети на большие территории.","radiusKm":15.0,"autonomyHours":96,"pricePerDay":35,"deposit":250}
+]
